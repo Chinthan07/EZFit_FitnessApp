@@ -2,7 +2,7 @@
 
 --> Project Description:
 
-This project is focused on developing a user-friendly Inventory Management and Invoice System. It will help businesses effectively track inventory, manage sales and purchases, and generate invoices, enhancing overall operational efficiency.
+This Project is aimed at personalizing the fitness guide with tailored workouts for your wellness journey using java (Android Studio).
 
 -->Technologies Used:
 
